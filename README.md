@@ -1,2 +1,2 @@
 ## Online Dictionary
-<img src="/home/access/Documents/DAMJS/dictionaryAPI-Js/assets/images/cropped.png">
+<img src="https://github.com/gilbertKorir/dictionary-API-js/blob/master/assets/images/cropped.png">
